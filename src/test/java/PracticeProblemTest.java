@@ -5,7 +5,7 @@ import static org.junit.jupiter.api.Assertions.*;
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Method;
 
-class JUnitExampleTest {
+class PracticeProblemTest {
     
     private static final double DELTA = 0.001;
     
